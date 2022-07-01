@@ -128,3 +128,4 @@ dist
 .DS_Store
 /backend/data
 /fullstack/data
+/fullstack/api/data
