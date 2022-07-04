@@ -8,4 +8,7 @@
 - Testing setup
 - Fullstack setup
 - Use of Swarm and Kubernetes
+- Creating a Minikube cluster and deploying app
 - Continuous integration (CI) cycle
+  - CI: create a Travis file
+  - GitHub integration   
